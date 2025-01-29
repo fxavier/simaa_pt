@@ -51,19 +51,19 @@ export function Footer() {
 						</ul>
 					</div>
 					<div className='space-y-4'>
-						<h3 className='text-lg font-semibold'>Contato</h3>
+						<h3 className='text-lg font-semibold'>Contacto</h3>
 						<ul className='space-y-2'>
 							<li className='flex items-center space-x-2 text-sm text-muted-foreground'>
 								<Mail className='h-4 w-4' />
-								<span>info@simaasystems.com</span>
+								<span>info@simaa.co.mz</span>
 							</li>
 							<li className='flex items-center space-x-2 text-sm text-muted-foreground'>
 								<Phone className='h-4 w-4' />
-								<span>+123 456 7890</span>
+								<span>+258 84 333 3333</span>
 							</li>
 							<li className='flex items-center space-x-2 text-sm text-muted-foreground'>
 								<MapPin className='h-4 w-4' />
-								<span>[Seu Endereço]</span>
+								<span>Rua das Flores, 123 - Beira</span>
 							</li>
 						</ul>
 					</div>

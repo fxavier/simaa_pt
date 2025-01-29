@@ -24,8 +24,8 @@ export function Navbar() {
 						<Image
 							src='/images/simaalogo.png'
 							alt='Logo Simaa'
-							width={120}
-							height={40}
+							width={180}
+							height={180}
 							className='h-10 w-auto'
 						/>
 					</Link>

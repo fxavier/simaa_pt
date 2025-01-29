@@ -15,7 +15,7 @@ export default function NotFound() {
 					transition={{ duration: 0.5 }}
 					className='mb-8'
 				>
-					<Construction className='h-24 w-24 text-green-600 mx-auto' />
+					<Construction className='h-24 w-24 text-blue-600 mx-auto' />
 				</motion.div>
 
 				<motion.div
@@ -37,7 +37,7 @@ export default function NotFound() {
 					<Link href='/'>
 						<Button
 							size='lg'
-							className='bg-green-600 hover:bg-green-700 text-white inline-flex items-center gap-2'
+							className='bg-blue-500 hover:bg-blue-900 text-white inline-flex items-center gap-2'
 						>
 							<Home className='h-4 w-4' />
 							Voltar ao Início
